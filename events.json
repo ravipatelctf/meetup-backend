@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Tech Conference 2025",
+    "eventImageUrl": "https://placehold.co/600x400?text=Tech+Conf+2025",
+    "eventImageAlt": "Tech Conference Image",
+    "eventStartDate": "Fri Aug 15 2025 . 9:00:00 AM IST",
+    "eventEndDate": "Sat Aug 16 2025 . 5:00:00 PM IST",
+    "ticketPrice": 3500,
+    "location": "Convention Center, Bangalore, India",
+    "eventType": "Technology Conference",
+    "hostedBy": "Innovate India",
+    "details": "An event for tech enthusiasts to explore AI, blockchain, and IoT innovations.",
+    "dressCode": "Business Casual",
+    "ageRestrictions": 18,
+    "eventTags": ["technology", "innovation", "AI"],
+    "speakers": [
+      { "id": 1, "name": "Arjun Mehta", "designation": "AI Researcher" },
+      { "id": 2, "name": "Priya Sharma", "designation": "Blockchain Developer" }
+    ]
+  },
+  {
+    "title": "Music Fest 2025",
+    "eventImageUrl": "https://placehold.co/600x400?text=Music+Fest+2025",
+    "eventImageAlt": "Music Festival Image",
+    "eventStartDate": "Sat Sep 10 2025 . 6:00:00 PM IST",
+    "eventEndDate": "Sun Sep 11 2025 . 11:59:00 PM IST",
+    "ticketPrice": 2000,
+    "location": "Open Grounds, Goa, India",
+    "eventType": "Music Festival",
+    "hostedBy": "Goa Beats",
+    "details": "A night full of music, dance, and fun with top artists from around the globe.",
+    "dressCode": "Casual",
+    "ageRestrictions": 16,
+    "eventTags": ["music", "festival", "live"],
+    "speakers": [
+      { "id": 1, "name": "DJ Rohan", "designation": "Music Producer" },
+      { "id": 2, "name": "Ananya Rao", "designation": "Singer-Songwriter" }
+    ]
+  },
+  {
+    "title": "Startup Pitch Night",
+    "eventImageUrl": "https://placehold.co/600x400?text=Startup+Pitch+Night",
+    "eventImageAlt": "Startup Event Image",
+    "eventStartDate": "Wed Oct 05 2025 . 5:00:00 PM IST",
+    "eventEndDate": "Wed Oct 05 2025 . 9:00:00 PM IST",
+    "ticketPrice": 1500,
+    "location": "Innovation Hub, Mumbai, India",
+    "eventType": "Entrepreneurship Meetup",
+    "hostedBy": "Startup India",
+    "details": "A platform for budding entrepreneurs to pitch their ideas to investors.",
+    "dressCode": "Formal",
+    "ageRestrictions": 18,
+    "eventTags": ["startup", "entrepreneurship", "investment"],
+    "speakers": [
+      { "id": 1, "name": "Ravi Kumar", "designation": "Angel Investor" },
+      { "id": 2, "name": "Neha Gupta", "designation": "Startup Mentor" }
+    ]
+  },
+  {
+    "title": "Photography Masterclass",
+    "eventImageUrl": "https://placehold.co/600x400?text=Photography+Masterclass",
+    "eventImageAlt": "Photography Workshop Image",
+    "eventStartDate": "Mon Nov 14 2025 . 10:00:00 AM IST",
+    "eventEndDate": "Mon Nov 14 2025 . 4:00:00 PM IST",
+    "ticketPrice": 1200,
+    "location": "Art Gallery Hall, Delhi, India",
+    "eventType": "Workshop",
+    "hostedBy": "Lens & Light",
+    "details": "Learn the art of professional photography from award-winning photographers.",
+    "dressCode": "Casual",
+    "ageRestrictions": 15,
+    "eventTags": ["photography", "art", "workshop"],
+    "speakers": [
+      { "id": 1, "name": "Karan Malhotra", "designation": "Wildlife Photographer" },
+      { "id": 2, "name": "Aisha Khan", "designation": "Portrait Photographer" }
+    ]
+  },
+  {
+    "title": "Health & Wellness Expo",
+    "eventImageUrl": "https://placehold.co/600x400?text=Health+Wellness+Expo",
+    "eventImageAlt": "Wellness Event Image",
+    "eventStartDate": "Fri Dec 02 2025 . 8:00:00 AM IST",
+    "eventEndDate": "Sat Dec 03 2025 . 6:00:00 PM IST",
+    "ticketPrice": 1000,
+    "location": "Expo Center, Pune, India",
+    "eventType": "Health & Lifestyle",
+    "hostedBy": "Wellness India",
+    "details": "Discover the latest in health, fitness, and nutrition at this 2-day event.",
+    "dressCode": "Comfortable",
+    "ageRestrictions": 12,
+    "eventTags": ["health", "wellness", "fitness"],
+    "speakers": [
+      { "id": 1, "name": "Dr. Shalini Rao", "designation": "Nutritionist" },
+      { "id": 2, "name": "Amit Singh", "designation": "Fitness Coach" }
+    ]
+  }
+]
