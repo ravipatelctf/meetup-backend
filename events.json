@@ -7,15 +7,15 @@
     "eventEndDate": "Sat Aug 16 2025 . 5:00:00 PM IST",
     "ticketPrice": 3500,
     "location": "Convention Center, Bangalore, India",
-    "eventType": "Technology Conference",
+    "eventType": "Online",
     "hostedBy": "Innovate India",
     "details": "An event for tech enthusiasts to explore AI, blockchain, and IoT innovations.",
     "dressCode": "Business Casual",
     "ageRestrictions": 18,
     "eventTags": ["technology", "innovation", "AI"],
     "speakers": [
-      { "id": 1, "name": "Arjun Mehta", "designation": "AI Researcher" },
-      { "id": 2, "name": "Priya Sharma", "designation": "Blockchain Developer" }
+      { "id": 1, "name": "Arjun Mehta", "designation": "AI Researcher", "profilePicURL": "https://placehold.co/150x150?text=Arjun+Mehta", "profilePicAlt": "Profile picture of Arjun Mehta" },
+      { "id": 2, "name": "Priya Sharma", "designation": "Blockchain Developer", "profilePicURL": "https://placehold.co/150x150?text=Priya+Sharma", "profilePicAlt": "Profile picture of Priya Sharma" }
     ]
   },
   {
@@ -26,15 +26,15 @@
     "eventEndDate": "Sun Sep 11 2025 . 11:59:00 PM IST",
     "ticketPrice": 2000,
     "location": "Open Grounds, Goa, India",
-    "eventType": "Music Festival",
+    "eventType": "Offline",
     "hostedBy": "Goa Beats",
     "details": "A night full of music, dance, and fun with top artists from around the globe.",
     "dressCode": "Casual",
     "ageRestrictions": 16,
     "eventTags": ["music", "festival", "live"],
     "speakers": [
-      { "id": 1, "name": "DJ Rohan", "designation": "Music Producer" },
-      { "id": 2, "name": "Ananya Rao", "designation": "Singer-Songwriter" }
+      { "id": 1, "name": "DJ Rohan", "designation": "Music Producer", "profilePicURL": "https://placehold.co/150x150?text=DJ+Rohan", "profilePicAlt": "Profile picture of DJ Rohan" },
+      { "id": 2, "name": "Ananya Rao", "designation": "Singer-Songwriter", "profilePicURL": "https://placehold.co/150x150?text=Ananya+Rao", "profilePicAlt": "Profile picture of Ananya Rao" }
     ]
   },
   {
@@ -45,15 +45,15 @@
     "eventEndDate": "Wed Oct 05 2025 . 9:00:00 PM IST",
     "ticketPrice": 1500,
     "location": "Innovation Hub, Mumbai, India",
-    "eventType": "Entrepreneurship Meetup",
+    "eventType": "Offline",
     "hostedBy": "Startup India",
     "details": "A platform for budding entrepreneurs to pitch their ideas to investors.",
     "dressCode": "Formal",
     "ageRestrictions": 18,
     "eventTags": ["startup", "entrepreneurship", "investment"],
     "speakers": [
-      { "id": 1, "name": "Ravi Kumar", "designation": "Angel Investor" },
-      { "id": 2, "name": "Neha Gupta", "designation": "Startup Mentor" }
+      { "id": 1, "name": "Ravi Kumar", "designation": "Angel Investor", "profilePicURL": "https://placehold.co/150x150?text=Ravi+Kumar", "profilePicAlt": "Profile picture of Ravi Kumar" },
+      { "id": 2, "name": "Neha Gupta", "designation": "Startup Mentor", "profilePicURL": "https://placehold.co/150x150?text=Neha+Gupta", "profilePicAlt": "Profile picture of Neha Gupta" }
     ]
   },
   {
@@ -64,15 +64,15 @@
     "eventEndDate": "Mon Nov 14 2025 . 4:00:00 PM IST",
     "ticketPrice": 1200,
     "location": "Art Gallery Hall, Delhi, India",
-    "eventType": "Workshop",
+    "eventType": "Online",
     "hostedBy": "Lens & Light",
     "details": "Learn the art of professional photography from award-winning photographers.",
     "dressCode": "Casual",
     "ageRestrictions": 15,
     "eventTags": ["photography", "art", "workshop"],
     "speakers": [
-      { "id": 1, "name": "Karan Malhotra", "designation": "Wildlife Photographer" },
-      { "id": 2, "name": "Aisha Khan", "designation": "Portrait Photographer" }
+      { "id": 1, "name": "Karan Malhotra", "designation": "Wildlife Photographer", "profilePicURL": "https://placehold.co/150x150?text=Karan+Malhotra", "profilePicAlt": "Profile picture of Karan Malhotra" },
+      { "id": 2, "name": "Aisha Khan", "designation": "Portrait Photographer", "profilePicURL": "https://placehold.co/150x150?text=Aisha+Khan", "profilePicAlt": "Profile picture of Aisha Khan" }
     ]
   },
   {
@@ -83,15 +83,91 @@
     "eventEndDate": "Sat Dec 03 2025 . 6:00:00 PM IST",
     "ticketPrice": 1000,
     "location": "Expo Center, Pune, India",
-    "eventType": "Health & Lifestyle",
+    "eventType": "Offline",
     "hostedBy": "Wellness India",
     "details": "Discover the latest in health, fitness, and nutrition at this 2-day event.",
     "dressCode": "Comfortable",
     "ageRestrictions": 12,
     "eventTags": ["health", "wellness", "fitness"],
     "speakers": [
-      { "id": 1, "name": "Dr. Shalini Rao", "designation": "Nutritionist" },
-      { "id": 2, "name": "Amit Singh", "designation": "Fitness Coach" }
+      { "id": 1, "name": "Dr. Shalini Rao", "designation": "Nutritionist", "profilePicURL": "https://placehold.co/150x150?text=Shalini+Rao", "profilePicAlt": "Profile picture of Dr. Shalini Rao" },
+      { "id": 2, "name": "Amit Singh", "designation": "Fitness Coach", "profilePicURL": "https://placehold.co/150x150?text=Amit+Singh", "profilePicAlt": "Profile picture of Amit Singh" }
+    ]
+  },
+  {
+    "title": "Cybersecurity Summit 2025",
+    "eventImageUrl": "https://placehold.co/600x400?text=Cybersecurity+Summit+2025",
+    "eventImageAlt": "Cybersecurity Summit Image",
+    "eventStartDate": "Tue Jan 20 2026 . 10:00:00 AM IST",
+    "eventEndDate": "Tue Jan 20 2026 . 6:00:00 PM IST",
+    "ticketPrice": 2500,
+    "location": "Tech Park Auditorium, Hyderabad, India",
+    "eventType": "Online",
+    "hostedBy": "SecureTech India",
+    "details": "A summit focused on emerging threats and defenses in the cybersecurity landscape.",
+    "dressCode": "Business Formal",
+    "ageRestrictions": 18,
+    "eventTags": ["cybersecurity", "IT", "conference"],
+    "speakers": [
+      { "id": 1, "name": "Manoj Desai", "designation": "Cybersecurity Expert", "profilePicURL": "https://placehold.co/150x150?text=Manoj+Desai", "profilePicAlt": "Profile picture of Manoj Desai" },
+      { "id": 2, "name": "Ritika Bansal", "designation": "Ethical Hacker", "profilePicURL": "https://placehold.co/150x150?text=Ritika+Bansal", "profilePicAlt": "Profile picture of Ritika Bansal" }
+    ]
+  },
+  {
+    "title": "AI in Healthcare Conference",
+    "eventImageUrl": "https://placehold.co/600x400?text=AI+in+Healthcare+2025",
+    "eventImageAlt": "AI in Healthcare Image",
+    "eventStartDate": "Fri Feb 14 2026 . 9:00:00 AM IST",
+    "eventEndDate": "Sat Feb 15 2026 . 5:00:00 PM IST",
+    "ticketPrice": 3000,
+    "location": "Medical Innovation Center, Chennai, India",
+    "eventType": "Offline",
+    "hostedBy": "HealthTech Forum",
+    "details": "Exploring how artificial intelligence is transforming the healthcare industry.",
+    "dressCode": "Business Casual",
+    "ageRestrictions": 18,
+    "eventTags": ["AI", "healthcare", "innovation"],
+    "speakers": [
+      { "id": 1, "name": "Dr. Vivek Menon", "designation": "AI Researcher in Medicine", "profilePicURL": "https://placehold.co/150x150?text=Vivek+Menon", "profilePicAlt": "Profile picture of Dr. Vivek Menon" },
+      { "id": 2, "name": "Meera Nair", "designation": "Healthcare Data Scientist", "profilePicURL": "https://placehold.co/150x150?text=Meera+Nair", "profilePicAlt": "Profile picture of Meera Nair" }
+    ]
+  },
+  {
+    "title": "Green Energy Expo",
+    "eventImageUrl": "https://placehold.co/600x400?text=Green+Energy+Expo+2025",
+    "eventImageAlt": "Green Energy Expo Image",
+    "eventStartDate": "Thu Mar 12 2026 . 10:00:00 AM IST",
+    "eventEndDate": "Fri Mar 13 2026 . 6:00:00 PM IST",
+    "ticketPrice": 1800,
+    "location": "Eco Center, Ahmedabad, India",
+    "eventType": "Offline",
+    "hostedBy": "GreenFuture",
+    "details": "An exhibition showcasing renewable energy solutions and sustainable innovations.",
+    "dressCode": "Casual",
+    "ageRestrictions": 15,
+    "eventTags": ["green energy", "sustainability", "expo"],
+    "speakers": [
+      { "id": 1, "name": "Anil Kapoor", "designation": "Renewable Energy Engineer", "profilePicURL": "https://placehold.co/150x150?text=Anil+Kapoor", "profilePicAlt": "Profile picture of Anil Kapoor" },
+      { "id": 2, "name": "Sunita Joshi", "designation": "Environmental Scientist", "profilePicURL": "https://placehold.co/150x150?text=Sunita+Joshi", "profilePicAlt": "Profile picture of Sunita Joshi" }
+    ]
+  },
+  {
+    "title": "Digital Marketing Bootcamp",
+    "eventImageUrl": "https://placehold.co/600x400?text=Digital+Marketing+Bootcamp",
+    "eventImageAlt": "Digital Marketing Bootcamp Image",
+    "eventStartDate": "Mon Apr 20 2026 . 9:30:00 AM IST",
+    "eventEndDate": "Wed Apr 22 2026 . 5:30:00 PM IST",
+    "ticketPrice": 2200,
+    "location": "Business Hub, Kolkata, India",
+    "eventType": "Online",
+    "hostedBy": "MarketMasters",
+    "details": "A 3-day intensive program on modern digital marketing strategies.",
+    "dressCode": "Smart Casual",
+    "ageRestrictions": 17,
+    "eventTags": ["marketing", "digital", "bootcamp"],
+    "speakers": [
+      { "id": 1, "name": "Rahul Kapoor", "designation": "SEO Specialist", "profilePicURL": "https://placehold.co/150x150?text=Rahul+Kapoor", "profilePicAlt": "Profile picture of Rahul Kapoor" },
+      { "id": 2, "name": "Sneha Patel", "designation": "Social Media Strategist", "profilePicURL": "https://placehold.co/150x150?text=Sneha+Patel", "profilePicAlt": "Profile picture of Sneha Patel" }
     ]
   }
 ]

@@ -8,7 +8,10 @@ const eventSchema = new mongoose.Schema({
     eventEndDate: String,
     ticketPrice: Number,
     location: String,
-    eventType: String,
+    eventType: {
+        type: String,
+        enum: ["Online", "Offline"],
+    },
     hostedBy: String,
     details: String,
     dressCode: String,
