@@ -1,7 +1,7 @@
 const {initializeDatabase} = require("./db/db.connect");
 const Event = require("./models/event.models");
 
-const fs = require("fs");
+// const fs = require("fs");
 
 const express = require("express");
 const app = express();
@@ -19,36 +19,36 @@ initializeDatabase();
 
 // ----------------------------------------------------------------
 // seed the data in database
-const jsonData = fs.readFileSync("events.json", "utf-8");
-const eventsData = JSON.parse(jsonData);
+// const jsonData = fs.readFileSync("events.json", "utf-8");
+// const eventsData = JSON.parse(jsonData);
 
-function seedData() {
-    try {
-        for (const eventData of eventsData) {
-            const newEvent = new Event({
-                title: eventData.title,
-                eventImageUrl: eventData.eventImageUrl,
-                eventImageAlt: eventData.eventImageAlt,
-                eventStartDate: eventData.eventStartDate,
-                eventEndDate: eventData.eventEndDate,
-                ticketPrice: eventData.ticketPrice,
-                location: eventData.location,
-                eventType: eventData.eventType,
-                hostedBy: eventData.hostedBy,
-                details: eventData.details,
-                dressCode: eventData.dressCode,
-                ageRestrictions: eventData.ageRestrictions,
-                eventTags: eventData.eventTags,
-                speakers: eventData.speakers,
-            });
-            newEvent.save();
-        }
-    } catch (error) {
-        throw error;
-    }
-}
+// function seedData() {
+//     try {
+//         for (const eventData of eventsData) {
+//             const newEvent = new Event({
+//                 title: eventData.title,
+//                 eventImageUrl: eventData.eventImageUrl,
+//                 eventImageAlt: eventData.eventImageAlt,
+//                 eventStartDate: eventData.eventStartDate,
+//                 eventEndDate: eventData.eventEndDate,
+//                 ticketPrice: eventData.ticketPrice,
+//                 location: eventData.location,
+//                 eventType: eventData.eventType,
+//                 hostedBy: eventData.hostedBy,
+//                 details: eventData.details,
+//                 dressCode: eventData.dressCode,
+//                 ageRestrictions: eventData.ageRestrictions,
+//                 eventTags: eventData.eventTags,
+//                 speakers: eventData.speakers,
+//             });
+//             newEvent.save();
+//         }
+//     } catch (error) {
+//         throw error;
+//     }
+// }
 
-seedData();
+// seedData();
 // ----------------------------------------------------------------
 
 // get all events
