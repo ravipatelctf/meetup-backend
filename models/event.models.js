@@ -22,7 +22,11 @@ const eventSchema = new mongoose.Schema({
     speakers: [{
         type: Object,
     }],
-});
+},
+{
+    timestamps: true,
+},
+);
 
 const Event = mongoose.model("Event", eventSchema);
 

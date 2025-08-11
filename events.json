@@ -1,7 +1,7 @@
 [
   {
     "title": "Tech Conference 2025",
-    "eventImageUrl": "https://placehold.co/600x400?text=Tech+Conf+2025",
+    "eventImageUrl": "https://picsum.photos/id/8/600/400",
     "eventImageAlt": "Tech Conference Image",
     "eventStartDate": "Fri Aug 15 2025 . 9:00:00 AM IST",
     "eventEndDate": "Sat Aug 16 2025 . 5:00:00 PM IST",
@@ -9,18 +9,18 @@
     "location": "Convention Center, Bangalore, India",
     "eventType": "Online",
     "hostedBy": "Innovate India",
-    "details": "An event for tech enthusiasts to explore AI, blockchain, and IoT innovations.",
+    "details": "Immerse yourself in the future of technology at the Tech Conference 2025, hosted by Innovate India. This two-day online event, scheduled from August 15th to 16th, 2025, will bring together leading minds and innovators to explore breakthroughs in Artificial Intelligence, blockchain, and the Internet of Things (IoT). Attendees will gain valuable insights into cutting-edge research, practical applications, and emerging trends shaping the tech industry. Hear from industry leaders like Arjun Mehta, AI Researcher, and Priya Sharma, Blockchain Developer, as they share their expertise and vision for the digital future. Open to individuals aged 18 and above, the conference offers a unique opportunity to network with fellow professionals, learn from experts, and stay ahead in an ever-evolving technological landscape. The ticket price is ₹3,500, and the dress code is business casual.",
     "dressCode": "Business Casual",
     "ageRestrictions": 18,
     "eventTags": ["technology", "innovation", "AI"],
     "speakers": [
-      { "id": 1, "name": "Arjun Mehta", "designation": "AI Researcher", "profilePicURL": "https://placehold.co/150x150?text=Arjun+Mehta", "profilePicAlt": "Profile picture of Arjun Mehta" },
-      { "id": 2, "name": "Priya Sharma", "designation": "Blockchain Developer", "profilePicURL": "https://placehold.co/150x150?text=Priya+Sharma", "profilePicAlt": "Profile picture of Priya Sharma" }
+      { "id": 1, "name": "Arjun Mehta", "designation": "AI Researcher", "profilePicURL": "https://images.unsplash.com/photo-1595152772835-219674b2a8a6?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Arjun Mehta" },
+      { "id": 2, "name": "Priya Sharma", "designation": "Blockchain Developer", "profilePicURL": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Priya Sharma" }
     ]
   },
   {
     "title": "Music Fest 2025",
-    "eventImageUrl": "https://placehold.co/600x400?text=Music+Fest+2025",
+    "eventImageUrl": "https://images.unsplash.com/photo-1507874457470-272b3c8d8ee2",
     "eventImageAlt": "Music Festival Image",
     "eventStartDate": "Sat Sep 10 2025 . 6:00:00 PM IST",
     "eventEndDate": "Sun Sep 11 2025 . 11:59:00 PM IST",
@@ -28,18 +28,18 @@
     "location": "Open Grounds, Goa, India",
     "eventType": "Offline",
     "hostedBy": "Goa Beats",
-    "details": "A night full of music, dance, and fun with top artists from around the globe.",
+    "details": "Get ready for an electrifying weekend at Music Fest 2025, hosted by Goa Beats. This two-day offline extravaganza, happening from September 10th to 11th, 2025, will transform the Open Grounds in Goa into a paradise of rhythm, beats, and unforgettable vibes. Experience non-stop music from top artists around the globe, featuring pulsating DJ sets, soulful live performances, and high-energy dance acts. Join DJ Rohan, renowned Music Producer, and Ananya Rao, acclaimed Singer-Songwriter, as they set the stage ablaze with their captivating sounds. Open to music lovers aged 16 and above, this festival promises an immersive atmosphere with vibrant lighting, delicious food stalls, and endless opportunities to dance the night away. Tickets are priced at ₹2,000, and the dress code is casual—perfect for a night of pure musical magic.",
     "dressCode": "Casual",
     "ageRestrictions": 16,
     "eventTags": ["music", "festival", "live"],
     "speakers": [
-      { "id": 1, "name": "DJ Rohan", "designation": "Music Producer", "profilePicURL": "https://placehold.co/150x150?text=DJ+Rohan", "profilePicAlt": "Profile picture of DJ Rohan" },
-      { "id": 2, "name": "Ananya Rao", "designation": "Singer-Songwriter", "profilePicURL": "https://placehold.co/150x150?text=Ananya+Rao", "profilePicAlt": "Profile picture of Ananya Rao" }
+      { "id": 1, "name": "DJ Rohan", "designation": "Music Producer", "profilePicURL": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of DJ Rohan" },
+      { "id": 2, "name": "Ananya Rao", "designation": "Singer-Songwriter", "profilePicURL": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Ananya Rao" }
     ]
   },
   {
     "title": "Startup Pitch Night",
-    "eventImageUrl": "https://placehold.co/600x400?text=Startup+Pitch+Night",
+    "eventImageUrl": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
     "eventImageAlt": "Startup Event Image",
     "eventStartDate": "Wed Oct 05 2025 . 5:00:00 PM IST",
     "eventEndDate": "Wed Oct 05 2025 . 9:00:00 PM IST",
@@ -47,18 +47,18 @@
     "location": "Innovation Hub, Mumbai, India",
     "eventType": "Offline",
     "hostedBy": "Startup India",
-    "details": "A platform for budding entrepreneurs to pitch their ideas to investors.",
+    "details": "Step into the heart of innovation at Startup Pitch Night, hosted by Startup India. This exclusive offline event, taking place on October 5th, 2025, from 5:00 PM to 9:00 PM at the Innovation Hub in Mumbai, offers a dynamic platform for budding entrepreneurs to present their groundbreaking ideas directly to seasoned investors. Engage with industry veterans like Ravi Kumar, a respected Angel Investor, and Neha Gupta, an experienced Startup Mentor, as they share invaluable feedback, insights, and guidance to help shape the next big success stories. Designed for individuals aged 18 and above, the evening promises an atmosphere buzzing with creativity, networking opportunities, and the potential to secure real investment deals. Tickets are priced at ₹1,500, and the dress code is formal, ensuring a professional and impactful experience for all attendees.",
     "dressCode": "Formal",
     "ageRestrictions": 18,
     "eventTags": ["startup", "entrepreneurship", "investment"],
     "speakers": [
-      { "id": 1, "name": "Ravi Kumar", "designation": "Angel Investor", "profilePicURL": "https://placehold.co/150x150?text=Ravi+Kumar", "profilePicAlt": "Profile picture of Ravi Kumar" },
-      { "id": 2, "name": "Neha Gupta", "designation": "Startup Mentor", "profilePicURL": "https://placehold.co/150x150?text=Neha+Gupta", "profilePicAlt": "Profile picture of Neha Gupta" }
+      { "id": 1, "name": "Ravi Kumar", "designation": "Angel Investor", "profilePicURL": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Ravi Kumar" },
+      { "id": 2, "name": "Neha Gupta", "designation": "Startup Mentor", "profilePicURL": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Neha Gupta" }
     ]
   },
   {
     "title": "Photography Masterclass",
-    "eventImageUrl": "https://placehold.co/600x400?text=Photography+Masterclass",
+    "eventImageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
     "eventImageAlt": "Photography Workshop Image",
     "eventStartDate": "Mon Nov 14 2025 . 10:00:00 AM IST",
     "eventEndDate": "Mon Nov 14 2025 . 4:00:00 PM IST",
@@ -66,18 +66,18 @@
     "location": "Art Gallery Hall, Delhi, India",
     "eventType": "Online",
     "hostedBy": "Lens & Light",
-    "details": "Learn the art of professional photography from award-winning photographers.",
+    "details": "Unlock the secrets of capturing stunning visuals at the Photography Masterclass, hosted by Lens & Light. This immersive online workshop, scheduled for November 14th, 2025, from 10:00 AM to 4:00 PM IST, brings together award-winning photographers to guide participants through the art and science of professional photography. Learn from experts like Karan Malhotra, renowned Wildlife Photographer, and Aisha Khan, celebrated Portrait Photographer, as they share insider tips, hands-on techniques, and creative approaches to elevate your craft. Designed for enthusiasts aged 15 and above, the session covers composition, lighting, storytelling through images, and post-processing essentials. Whether you are an aspiring professional or a passionate hobbyist, this masterclass promises to inspire and refine your photographic vision. Tickets are priced at ₹1,200, and the casual dress code ensures a comfortable and engaging learning experience.",
     "dressCode": "Casual",
     "ageRestrictions": 15,
     "eventTags": ["photography", "art", "workshop"],
     "speakers": [
-      { "id": 1, "name": "Karan Malhotra", "designation": "Wildlife Photographer", "profilePicURL": "https://placehold.co/150x150?text=Karan+Malhotra", "profilePicAlt": "Profile picture of Karan Malhotra" },
-      { "id": 2, "name": "Aisha Khan", "designation": "Portrait Photographer", "profilePicURL": "https://placehold.co/150x150?text=Aisha+Khan", "profilePicAlt": "Profile picture of Aisha Khan" }
+      { "id": 1, "name": "Karan Malhotra", "designation": "Wildlife Photographer", "profilePicURL": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Karan Malhotra" },
+      { "id": 2, "name": "Aisha Khan", "designation": "Portrait Photographer", "profilePicURL": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Aisha Khan" }
     ]
   },
   {
     "title": "Health & Wellness Expo",
-    "eventImageUrl": "https://placehold.co/600x400?text=Health+Wellness+Expo",
+    "eventImageUrl": "https://images.unsplash.com/photo-1514995669114-6081e934b693",
     "eventImageAlt": "Wellness Event Image",
     "eventStartDate": "Fri Dec 02 2025 . 8:00:00 AM IST",
     "eventEndDate": "Sat Dec 03 2025 . 6:00:00 PM IST",
@@ -85,18 +85,18 @@
     "location": "Expo Center, Pune, India",
     "eventType": "Offline",
     "hostedBy": "Wellness India",
-    "details": "Discover the latest in health, fitness, and nutrition at this 2-day event.",
+    "details": "Step into a world of holistic living at the Health & Wellness Expo, hosted by Wellness India. Taking place at the Expo Center in Pune from December 2nd to 3rd, 2025, this two-day offline event is a celebration of health, fitness, and nutrition for individuals aged 12 and above. Attendees will have the opportunity to explore cutting-edge products, wellness solutions, and expert-led sessions designed to inspire a balanced lifestyle. Learn from leading professionals like Dr. Shalini Rao, an acclaimed Nutritionist, and Amit Singh, a renowned Fitness Coach, as they share practical guidance on healthy eating, physical fitness, and mental well-being. With interactive workshops, fitness demonstrations, and wellness consultations, the event offers something for everyone—from health-conscious beginners to seasoned fitness enthusiasts. Tickets are priced at ₹1,000, and the comfortable dress code ensures you can fully enjoy the activities and experiences on offer.",
     "dressCode": "Comfortable",
     "ageRestrictions": 12,
     "eventTags": ["health", "wellness", "fitness"],
     "speakers": [
-      { "id": 1, "name": "Dr. Shalini Rao", "designation": "Nutritionist", "profilePicURL": "https://placehold.co/150x150?text=Shalini+Rao", "profilePicAlt": "Profile picture of Dr. Shalini Rao" },
-      { "id": 2, "name": "Amit Singh", "designation": "Fitness Coach", "profilePicURL": "https://placehold.co/150x150?text=Amit+Singh", "profilePicAlt": "Profile picture of Amit Singh" }
+      { "id": 1, "name": "Dr. Shalini Rao", "designation": "Nutritionist", "profilePicURL": "https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Dr. Shalini Rao" },
+      { "id": 2, "name": "Amit Singh", "designation": "Fitness Coach", "profilePicURL": "https://images.unsplash.com/photo-1595152772835-219674b2a8a6?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Amit Singh" }
     ]
   },
   {
     "title": "Cybersecurity Summit 2025",
-    "eventImageUrl": "https://placehold.co/600x400?text=Cybersecurity+Summit+2025",
+    "eventImageUrl": "https://picsum.photos/id/1/600/400",
     "eventImageAlt": "Cybersecurity Summit Image",
     "eventStartDate": "Tue Jan 20 2026 . 10:00:00 AM IST",
     "eventEndDate": "Tue Jan 20 2026 . 6:00:00 PM IST",
@@ -104,18 +104,18 @@
     "location": "Tech Park Auditorium, Hyderabad, India",
     "eventType": "Online",
     "hostedBy": "SecureTech India",
-    "details": "A summit focused on emerging threats and defenses in the cybersecurity landscape.",
+    "details": "Join the forefront of digital defense at the Cybersecurity Summit 2025, hosted by SecureTech India. Scheduled for January 20th, 2026, this full-day online conference will unite industry leaders, security specialists, and tech professionals to address the ever-evolving landscape of cyber threats. Participants will gain actionable insights into combating ransomware, phishing, data breaches, and emerging vulnerabilities in a hyper-connected world. Learn from distinguished experts like Manoj Desai, a veteran Cybersecurity Specialist, and Ritika Bansal, a celebrated Ethical Hacker, as they share real-world case studies, advanced defense strategies, and future-focused innovations. Designed for attendees aged 18 and above, the summit is ideal for IT professionals, corporate leaders, and security enthusiasts looking to enhance their knowledge and preparedness. With a ticket price of ₹2,500 and a business formal dress code, this is your opportunity to network with peers, discover cutting-edge tools, and stay ahead in the race to secure the digital frontier.",
     "dressCode": "Business Formal",
     "ageRestrictions": 18,
     "eventTags": ["cybersecurity", "IT", "conference"],
     "speakers": [
-      { "id": 1, "name": "Manoj Desai", "designation": "Cybersecurity Expert", "profilePicURL": "https://placehold.co/150x150?text=Manoj+Desai", "profilePicAlt": "Profile picture of Manoj Desai" },
-      { "id": 2, "name": "Ritika Bansal", "designation": "Ethical Hacker", "profilePicURL": "https://placehold.co/150x150?text=Ritika+Bansal", "profilePicAlt": "Profile picture of Ritika Bansal" }
+      { "id": 1, "name": "Manoj Desai", "designation": "Cybersecurity Expert", "profilePicURL": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Manoj Desai" },
+      { "id": 2, "name": "Ritika Bansal", "designation": "Ethical Hacker", "profilePicURL": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Ritika Bansal" }
     ]
   },
   {
     "title": "AI in Healthcare Conference",
-    "eventImageUrl": "https://placehold.co/600x400?text=AI+in+Healthcare+2025",
+    "eventImageUrl": "https://media.istockphoto.com/id/2199586292/photo/doctors-and-the-virtual-medical-revolution-and-technological-advances-artificial-intelligence.jpg?s=1024x1024&w=is&k=20&c=N_05XO4uYW2J6tY-oM4ILricX9Tb5UCtmzNoSZUlntA=",
     "eventImageAlt": "AI in Healthcare Image",
     "eventStartDate": "Fri Feb 14 2026 . 9:00:00 AM IST",
     "eventEndDate": "Sat Feb 15 2026 . 5:00:00 PM IST",
@@ -123,18 +123,18 @@
     "location": "Medical Innovation Center, Chennai, India",
     "eventType": "Offline",
     "hostedBy": "HealthTech Forum",
-    "details": "Exploring how artificial intelligence is transforming the healthcare industry.",
+    "details": "Discover the future of medicine at the AI in Healthcare Conference, hosted by HealthTech Forum at the Medical Innovation Center in Chennai from February 14th to 15th, 2026. This two-day offline event will bring together medical professionals, researchers, AI experts, and healthcare innovators to explore how artificial intelligence is reshaping diagnosis, treatment, patient care, and medical research. Attendees will gain valuable insights into cutting-edge AI applications, from predictive analytics and imaging diagnostics to personalized treatment plans and robotic-assisted surgeries. Learn from leading voices such as Dr. Vivek Menon, a renowned AI Researcher in Medicine, and Meera Nair, an accomplished Healthcare Data Scientist, as they share pioneering projects, case studies, and ethical considerations for AI integration in healthcare. Open to participants aged 18 and above, the conference offers networking opportunities, live demonstrations, and interactive panel discussions. Tickets are priced at ₹3,000, and a business casual dress code ensures a professional yet comfortable atmosphere for engaging with this transformative technology.",
     "dressCode": "Business Casual",
     "ageRestrictions": 18,
     "eventTags": ["AI", "healthcare", "innovation"],
     "speakers": [
-      { "id": 1, "name": "Dr. Vivek Menon", "designation": "AI Researcher in Medicine", "profilePicURL": "https://placehold.co/150x150?text=Vivek+Menon", "profilePicAlt": "Profile picture of Dr. Vivek Menon" },
-      { "id": 2, "name": "Meera Nair", "designation": "Healthcare Data Scientist", "profilePicURL": "https://placehold.co/150x150?text=Meera+Nair", "profilePicAlt": "Profile picture of Meera Nair" }
+      { "id": 1, "name": "Dr. Vivek Menon", "designation": "AI Researcher in Medicine", "profilePicURL": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Dr. Vivek Menon" },
+      { "id": 2, "name": "Meera Nair", "designation": "Healthcare Data Scientist", "profilePicURL": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Meera Nair" }
     ]
   },
   {
     "title": "Green Energy Expo",
-    "eventImageUrl": "https://placehold.co/600x400?text=Green+Energy+Expo+2025",
+    "eventImageUrl": "https://images.unsplash.com/photo-1452179535021-368bb0edc3a8?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "eventImageAlt": "Green Energy Expo Image",
     "eventStartDate": "Thu Mar 12 2026 . 10:00:00 AM IST",
     "eventEndDate": "Fri Mar 13 2026 . 6:00:00 PM IST",
@@ -142,18 +142,18 @@
     "location": "Eco Center, Ahmedabad, India",
     "eventType": "Offline",
     "hostedBy": "GreenFuture",
-    "details": "An exhibition showcasing renewable energy solutions and sustainable innovations.",
+    "details": "Join industry leaders, innovators, and eco-conscious citizens at the Green Energy Expo, hosted by GreenFuture at the Eco Center in Ahmedabad on March 12th and 13th, 2026. This two-day offline event will spotlight the latest advancements in renewable energy technologies, sustainable infrastructure, and environmental solutions. From solar, wind, and bioenergy innovations to green building materials and smart energy storage systems, the exhibition offers a hands-on look at how businesses and communities can transition to a cleaner future. Featured speakers include Anil Kapoor, a seasoned Renewable Energy Engineer, and Sunita Joshi, a respected Environmental Scientist, who will share groundbreaking research, success stories, and practical implementation strategies. With interactive displays, product demos, and networking sessions, the expo provides a unique platform for professionals, students, and environmental advocates alike. Open to participants aged 15 and above, the event welcomes casual attire for a relaxed yet inspiring atmosphere. Tickets are priced at ₹1,800, making it an accessible opportunity to engage with the movement toward sustainable energy solutions.",
     "dressCode": "Casual",
     "ageRestrictions": 15,
     "eventTags": ["green energy", "sustainability", "expo"],
     "speakers": [
-      { "id": 1, "name": "Anil Kapoor", "designation": "Renewable Energy Engineer", "profilePicURL": "https://placehold.co/150x150?text=Anil+Kapoor", "profilePicAlt": "Profile picture of Anil Kapoor" },
-      { "id": 2, "name": "Sunita Joshi", "designation": "Environmental Scientist", "profilePicURL": "https://placehold.co/150x150?text=Sunita+Joshi", "profilePicAlt": "Profile picture of Sunita Joshi" }
+      { "id": 1, "name": "Anil Kapoor", "designation": "Renewable Energy Engineer", "profilePicURL": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Anil Kapoor" },
+      { "id": 2, "name": "Sunita Joshi", "designation": "Environmental Scientist", "profilePicURL": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Sunita Joshi" }
     ]
   },
   {
     "title": "Digital Marketing Bootcamp",
-    "eventImageUrl": "https://placehold.co/600x400?text=Digital+Marketing+Bootcamp",
+    "eventImageUrl": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0",
     "eventImageAlt": "Digital Marketing Bootcamp Image",
     "eventStartDate": "Mon Apr 20 2026 . 9:30:00 AM IST",
     "eventEndDate": "Wed Apr 22 2026 . 5:30:00 PM IST",
@@ -161,13 +161,13 @@
     "location": "Business Hub, Kolkata, India",
     "eventType": "Online",
     "hostedBy": "MarketMasters",
-    "details": "A 3-day intensive program on modern digital marketing strategies.",
+    "details": "Elevate your marketing game at the Digital Marketing Bootcamp, a 3-day immersive online training hosted by MarketMasters from April 20th to 22nd, 2026. Designed for entrepreneurs, marketing professionals, and aspiring digital strategists, this bootcamp covers the latest tools, tactics, and trends shaping the digital marketing landscape. Sessions will dive deep into SEO optimization, data-driven advertising, social media campaigns, influencer marketing, content strategy, and analytics interpretation. Led by industry experts like Rahul Kapoor, a leading SEO Specialist, and Sneha Patel, a Social Media Strategist with proven campaign success, participants will gain actionable skills through live workshops, case studies, and interactive Q&A sessions. Whether you are looking to boost brand visibility, improve customer engagement, or drive sales, this program equips you with the strategies to succeed in the fast-evolving online marketplace. Open to participants aged 17 and above, the event encourages smart casual attire for a professional yet comfortable experience. Tickets are priced at ₹2,200, offering exceptional value for a hands-on, results-oriented marketing education.",
     "dressCode": "Smart Casual",
     "ageRestrictions": 17,
     "eventTags": ["marketing", "digital", "bootcamp"],
     "speakers": [
-      { "id": 1, "name": "Rahul Kapoor", "designation": "SEO Specialist", "profilePicURL": "https://placehold.co/150x150?text=Rahul+Kapoor", "profilePicAlt": "Profile picture of Rahul Kapoor" },
-      { "id": 2, "name": "Sneha Patel", "designation": "Social Media Strategist", "profilePicURL": "https://placehold.co/150x150?text=Sneha+Patel", "profilePicAlt": "Profile picture of Sneha Patel" }
+      { "id": 1, "name": "Rahul Kapoor", "designation": "SEO Specialist", "profilePicURL": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Rahul Kapoor" },
+      { "id": 2, "name": "Sneha Patel", "designation": "Social Media Strategist", "profilePicURL": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=200&h=200&fit=crop", "profilePicAlt": "Profile picture of Sneha Patel" }
     ]
   }
 ]
